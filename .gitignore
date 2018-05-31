@@ -12,3 +12,6 @@ dist/
 *egg*
 .idea/
 *sublime*
+*.sqlite3
+manage.py
+country_dialcode_example/
